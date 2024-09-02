@@ -4,7 +4,7 @@
   <title>Mua&amp;apos;dib Guide </title>
   <subtitle>「Java学习指北 + Java面试指南」一份涵盖大部分 Java 程序员所需要掌握的核心知识。准备 Java 面试，复习 Java 知识点，首选 Mua&amp;apos;dib Guide ！  </subtitle>
   <icon>https://javaguide.cn/learning/favicon.ico</icon>
-  <updated>2024-09-02T14:30:14.500Z</updated>
+  <updated>2024-09-02T15:49:28.186Z</updated>
   <generator>@vuepress/plugin-feed</generator>
   <link rel="self" href="https://javaguide.cn/learning/atom.xml"/>
   <link rel="alternate" href="https://javaguide.cn/learning/"/>
@@ -33,7 +33,7 @@
     <title type="text">JavaGuide（Java学习&amp;面试指南）</title>
     <id>https://javaguide.cn/learning/home.html</id>
     <link href="https://javaguide.cn/learning/home.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">友情提示</p>
 <ul>
@@ -412,13 +412,13 @@
 <p>如果大家想要实时关注我更新的文章以及分享的干货的话，可以关注我的公众号“<strong>JavaGuide</strong>”。</p>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">基本概念</title>
     <id>https://javaguide.cn/learning/AloT/basis.html</id>
     <link href="https://javaguide.cn/learning/AloT/basis.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>AIoT</h2>
 <ul>
 <li>create more efficient IoT operations,</li>
@@ -445,13 +445,13 @@ services and applications can process and access it.</p>
 needed to move data.<br>
 </p>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">抄袭狗，你冬天睡觉脚必冷！！！</title>
     <id>https://javaguide.cn/learning/about-the-author/dog-that-copies-other-people-essay.html</id>
     <link href="https://javaguide.cn/learning/about-the-author/dog-that-copies-other-people-essay.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>抄袭狗真的太烦了。。。</p>
 <p>听朋友说我的文章在知乎又被盗了，原封不动地被别人用来引流。</p>
 <figure><img src="https://oss.javaguide.cn/p3-juejin/39f223bd8d8240b8b7328f7ab6edbc57~tplv-k3u1fbpfcp-zoom-1.png" alt="" tabindex="0"><figcaption></figcaption></figure>
@@ -485,13 +485,13 @@ needed to move data.<br>
 <p>作为个体，咱也没啥办法，只能遇到一个举报一个。。。</p>
 ]]></content>
     <category term="走近作者"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">入职培训一个月后的感受</title>
     <id>https://javaguide.cn/learning/about-the-author/feelings-after-one-month-of-induction-training.html</id>
     <link href="https://javaguide.cn/learning/about-the-author/feelings-after-one-month-of-induction-training.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>不知不觉已经入职一个多月了，在入职之前我没有在某个公司实习过或者工作过，所以很多东西刚入职工作的我来说还是比较新颖的。学校到职场的转变，带来了角色的转变，其中的差别因人而异。对我而言，在学校的时候课堂上老师课堂上教的东西，自己会根据自己的兴趣选择性接受，甚至很多课程你不想去上的话，还可以逃掉。到了公司就不一样了，公司要求你会的技能你不得不学，除非你不想干了。在学校的时候大部分人编程的目的都是为了通过考试或者找到一份好工作，真正靠自己兴趣支撑起来的很少，到了工作岗位之后我们编程更多的是因为工作的要求，相比于学校的来说会一般会更有挑战而且压力更大。在学校的时候，我们最重要的就是对自己负责，我们不断学习知识去武装自己，但是到了公司之后我们不光要对自己负责，更要对公司负责，毕竟公司出钱请你过来，不是让你一直 on beach 的。</p>]]></summary>
     <content type="html"><![CDATA[<p>不知不觉已经入职一个多月了，在入职之前我没有在某个公司实习过或者工作过，所以很多东西刚入职工作的我来说还是比较新颖的。学校到职场的转变，带来了角色的转变，其中的差别因人而异。对我而言，在学校的时候课堂上老师课堂上教的东西，自己会根据自己的兴趣选择性接受，甚至很多课程你不想去上的话，还可以逃掉。到了公司就不一样了，公司要求你会的技能你不得不学，除非你不想干了。在学校的时候大部分人编程的目的都是为了通过考试或者找到一份好工作，真正靠自己兴趣支撑起来的很少，到了工作岗位之后我们编程更多的是因为工作的要求，相比于学校的来说会一般会更有挑战而且压力更大。在学校的时候，我们最重要的就是对自己负责，我们不断学习知识去武装自己，但是到了公司之后我们不光要对自己负责，更要对公司负责，毕竟公司出钱请你过来，不是让你一直 on beach 的。</p>
 <p>刚来公司的时候，因为公司要求，我换上了 Mac 电脑。由于之前一直用的是 Windows 系统，所以非常不习惯。刚开始用 Mac 系统的时候笨手笨脚，自己会很明显的感觉自己的编程效率降低了至少 3 成。当时内心还是挺不爽的，心里也总是抱怨为什么不直接用 Windows 系统或者 Linux 系统。不过也挺奇怪，大概一个星期之后，自己就开始慢慢适应使用 Mac 进行编程，甚至非常喜欢。我这里不想对比 Mac 和 Windows 编程体验哪一个更好，我觉得还是因人而异，相同价位的 Mac 的配置相比于 Windows 确实要被甩几条街。不过 Mac 的编程和使用体验确实不错，当然你也可以选择使用 Linux 进行日常开发，相信一定很不错。 另外，Mac 不能玩一些主流网络游戏，对于一些克制不住自己想玩游戏的朋友是一个不错的选择。</p>
@@ -504,13 +504,13 @@ needed to move data.<br>
 <p>这是我入职一个多月之后的个人感受，很多地方都是一带而过，后面我会抽时间分享自己在公司或者业余学到的比较有用的知识给各位，希望看过的人都能有所收获。</p>
 ]]></content>
     <category term="走近作者"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">从毕业到入职半年的感受</title>
     <id>https://javaguide.cn/learning/about-the-author/feelings-of-half-a-year-from-graduation-to-entry.html</id>
     <link href="https://javaguide.cn/learning/about-the-author/feelings-of-half-a-year-from-graduation-to-entry.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>如果大家看过我之前的介绍的话，就会知道我是 19 年毕业的几百万应届毕业生中的一员。这篇文章主要讲了一下我入职大半年的感受，文中有很多自己的主观感受，如果你们有任何不认同的地方都可以直接在评论区说出来，会很尊重其他人的想法。</p>
 <p>简单说一下自己的情况吧！我目前是在一家外企，每天的工作和大部分人一样就是做开发。毕业到现在，差不多也算是工作半年多了，也已经过了公司 6 个月的试用期。目前在公司做过两个偏向于业务方向的项目，其中一个正在做。你很难想象我在公司做的两个业务项目的后端都没有涉及到分布式/微服务，没有接触到 Redis、Kafka 等等比较“高大上”的技术在项目中的实际运用。</p>]]></summary>
     <content type="html"><![CDATA[<p>如果大家看过我之前的介绍的话，就会知道我是 19 年毕业的几百万应届毕业生中的一员。这篇文章主要讲了一下我入职大半年的感受，文中有很多自己的主观感受，如果你们有任何不认同的地方都可以直接在评论区说出来，会很尊重其他人的想法。</p>
@@ -548,13 +548,13 @@ needed to move data.<br>
 <p><strong>未来还有很长的路要走，即使再有精力也学不完你想学的所有技术，适当取舍、适当妥协，适当娱乐。</strong></p>
 ]]></content>
     <category term="走近作者"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">我曾经也是网瘾少年</title>
     <id>https://javaguide.cn/learning/about-the-author/internet-addiction-teenager.html</id>
     <link href="https://javaguide.cn/learning/about-the-author/internet-addiction-teenager.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>这篇文章写于 2021 年高考前夕。</p>
 </blockquote>
@@ -645,13 +645,13 @@ needed to move data.<br>
 <p><strong>时刻把自己的孩子保护起来不是一件靠谱的事情，他终究要独自面对越来越多的诱惑。到了大学，很多被父母保护太好的孩子就直接废了。他们没有独立意识，没有抗拒诱惑的定力！</strong></p>
 ]]></content>
     <category term="走近作者"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">JavaGuide 开源项目 100K Star 了！</title>
     <id>https://javaguide.cn/learning/about-the-author/javaguide-100k-star.html</id>
     <link href="https://javaguide.cn/learning/about-the-author/javaguide-100k-star.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>2021-03-21，晚上 12 点，肝完了我正在做的一个项目的前端的某块功能，我随手打开了<a href="https://github.com/Snailclimb" target="_blank" rel="noopener noreferrer">我的 GitHub 主页</a>。</p>
 <p>好家伙！几天没注意，<a href="https://github.com/Snailclimb/JavaGuide" target="_blank" rel="noopener noreferrer">JavaGuide</a> 这个项目直接上了 100K star。</p>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/1&amp;e=1643644799&amp;token=kIxbL07-8jAj8w1n4s9zv64FuZZNEATmlU_Vm6zD:zANqh9HQEvvLPm6smyrjvjAt-Ik=.png" alt="JavaGuide 100k 里程碑" tabindex="0"><figcaption>JavaGuide 100k 里程碑</figcaption></figure>]]></summary>
@@ -675,13 +675,13 @@ needed to move data.<br>
 <p><strong>希望自己以后能开源一些有价值的轮子吧！继续加油！</strong></p>
 ]]></content>
     <category term="走近作者"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">某培训机构盗我文章做成视频还上了B站热门</title>
     <id>https://javaguide.cn/learning/about-the-author/my-article-was-stolen-and-made-into-video-and-it-became-popular.html</id>
     <link href="https://javaguide.cn/learning/about-the-author/my-article-was-stolen-and-made-into-video-and-it-became-popular.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>时间回到 2021-02-25，我在刷哔哩哔哩的时候发现，哔哩哔哩某 UP 主（某培训机构），擅自将我在知乎的一个回答做成了视频。</p>
 <p>原滋原味啊！我艹。甚至，连我开头的自我调侃还加上了！真的牛皮！</p>
 <p>你盗我原创，视频你用心做好点也行啊！至少也可以让这么优质的内容得到传播嘛！</p>
@@ -723,13 +723,13 @@ needed to move data.<br>
 <p>咱不怕事！凎！！！</p>
 ]]></content>
     <category term="走近作者"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">害，毕业三年了！</title>
     <id>https://javaguide.cn/learning/about-the-author/my-college-life.html</id>
     <link href="https://javaguide.cn/learning/about-the-author/my-college-life.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>关于初高中的生活，可以看 2020 年我写的 <a href="/learning/about-the-author/internet-addiction-teenager.html" target="_blank">我曾经也是网瘾少年</a> 这篇文章。</p>
 </blockquote>
@@ -937,13 +937,13 @@ needed to move data.<br>
 <p><strong>多行动，少抱怨。</strong></p>
 ]]></content>
     <category term="走近作者"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">个人介绍 Q&amp;A</title>
     <id>https://javaguide.cn/learning/about-the-author/</id>
     <link href="https://javaguide.cn/learning/about-the-author/"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -992,13 +992,13 @@ needed to move data.<br>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="走近作者"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">坚持写技术博客六年了!</title>
     <id>https://javaguide.cn/learning/about-the-author/writing-technology-blog-six-years.html</id>
     <link href="https://javaguide.cn/learning/about-the-author/writing-technology-blog-six-years.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>坚持写技术博客已经有六年了，也算是一个小小的里程碑了。</p>
 <p>一开始，我写技术博客就是简单地总结自己课堂上学习的课程比如网络、操作系统。渐渐地，我开始撰写一些更为系统化的知识点详解和面试常见问题总结。</p>
 <figure><img src="https://oss.javaguide.cn/about-the-author/college-life/image-20230408131717766.png" alt="JavaGuide 首页" tabindex="0"><figcaption>JavaGuide 首页</figcaption></figure>
@@ -1094,13 +1094,13 @@ needed to move data.<br>
 <p>总的来说，写技术博客是一件利己利彼的事情。你可能会从中收获到很多东西，你写的东西也可能对别人也有很大的帮助。但是，写技术博客还是比较耗费自己时间的，你需要和工作以及生活做好权衡。</p>
 ]]></content>
     <category term="走近作者"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">我的知识星球快 3 岁了！</title>
     <id>https://javaguide.cn/learning/about-the-author/zhishixingqiu-two-years.html</id>
     <link href="https://javaguide.cn/learning/about-the-author/zhishixingqiu-two-years.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -1197,13 +1197,13 @@ needed to move data.<br>
 <p>不过， <strong>一定要确定需要再进</strong> 。并且， <strong>三天之内觉得内容不满意可以全额退款</strong> 。</p>
 ]]></content>
     <category term="知识星球"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">计算机基础必读经典书籍</title>
     <id>https://javaguide.cn/learning/books/cs-basics.html</id>
     <link href="https://javaguide.cn/learning/books/cs-basics.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>考虑到很多同学比较喜欢看视频，因此，这部分内容我不光会推荐书籍，还会顺便推荐一些我觉得不错的视频教程和各大高校的 Project。</p>
 <h2>操作系统</h2>
 <p><strong>为什么要学习操作系统？</strong></p>
@@ -1367,13 +1367,13 @@ needed to move data.<br>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/books/20210406152847824.png" alt="" tabindex="0"><figcaption></figcaption></figure>
 ]]></content>
     <category term="计算机书籍"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">数据库必读经典书籍</title>
     <id>https://javaguide.cn/learning/books/database.html</id>
     <link href="https://javaguide.cn/learning/books/database.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>数据库基础</h2>
 <p>数据库基础这块，如果你觉得书籍比较枯燥，自己坚持不下来的话，我推荐你可以先看看一些不错的视频，北京师范大学的<a href="https://www.icourse163.org/course/BNU-1002842007" target="_blank" rel="noopener noreferrer">《数据库系统原理》</a>、哈尔滨工业大学的<a href="https://www.icourse163.org/course/HIT-1001578001" target="_blank" rel="noopener noreferrer">《数据库系统（下）：管理与技术》</a>就很不错。</p>]]></summary>
     <content type="html"><![CDATA[<h2>数据库基础</h2>
@@ -1432,13 +1432,13 @@ needed to move data.<br>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/books/redis-kaifa-yu-yunwei.png" alt="《Redis 开发与运维》" tabindex="0"><figcaption>《Redis 开发与运维》</figcaption></figure>
 ]]></content>
     <category term="计算机书籍"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">分布式必读经典书籍</title>
     <id>https://javaguide.cn/learning/books/distributed-system.html</id>
     <link href="https://javaguide.cn/learning/books/distributed-system.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>《深入理解分布式系统》</h2>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/books/deep-understanding-of-distributed-system.png" alt="" tabindex="0"><figcaption></figcaption></figure>
 <p><strong><a href="https://book.douban.com/subject/35794814/" target="_blank" rel="noopener noreferrer">《深入理解分布式系统》</a></strong> 是今年 3 月份刚出的一本分布式中文原创书籍，主要讲的是分布式领域的基本概念、常见挑战以及共识算法。</p>]]></summary>
@@ -1496,13 +1496,13 @@ needed to move data.<br>
 </ul>
 ]]></content>
     <category term="计算机书籍"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 必读经典书籍</title>
     <id>https://javaguide.cn/learning/books/java.html</id>
     <link href="https://javaguide.cn/learning/books/java.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>Java 基础</h2>
 <p><strong><a href="https://book.douban.com/subject/2000732/" target="_blank" rel="noopener noreferrer">《Head First Java》</a></strong></p>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/books/image-20220424103035793.png" alt="《Head First Java》-豆瓣" tabindex="0"><figcaption>《Head First Java》-豆瓣</figcaption></figure>]]></summary>
@@ -1642,13 +1642,13 @@ needed to move data.<br>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="计算机书籍"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">技术书籍精选</title>
     <id>https://javaguide.cn/learning/books/</id>
     <link href="https://javaguide.cn/learning/books/"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>精选优质计算机书籍。</p>
 <p>开源的目的是为了大家能一起完善，如果你觉得内容有任何需要完善/补充的地方，欢迎大家在项目 <a href="https://github.com/CodingDocs/awesome-cs/issues" target="_blank" rel="noopener noreferrer">issues 区</a> 推荐自己认可的技术书籍，让我们共同维护一个优质的技术书籍精选集！</p>
 <ul>
@@ -1664,13 +1664,13 @@ needed to move data.<br>
 <p>如果内容对你有帮助的话，欢迎给本项目点个 Star。我会用我的业余时间持续完善这份书单，感谢！</p>
 ]]></content>
     <category term="计算机书籍"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">搜索引擎必读经典书籍</title>
     <id>https://javaguide.cn/learning/books/search-engine.html</id>
     <link href="https://javaguide.cn/learning/books/search-engine.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>Lucene</h2>
 <p>Elasticsearch 在 Apache Lucene 的基础上开发而成，学习 ES 之前，建议简单了解一下 Lucene 的相关概念。</p>
 <p><strong><a href="https://book.douban.com/subject/6440615/" target="_blank" rel="noopener noreferrer">《Lucene 实战》</a></strong> 是国内为数不多的中文版本讲 Lucene 的书籍，适合用来学习和了解 Lucene 相关的概念和常见操作。</p>
@@ -1691,13 +1691,13 @@ needed to move data.<br>
 <p>如果你想进一步深入研究 Elasticsearch 原理的话，可以看看张超老师的这本书。这是市面上唯一一本写 Elasticsearch 源码的书。</p>
 ]]></content>
     <category term="计算机书籍"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">软件质量必读经典书籍</title>
     <id>https://javaguide.cn/learning/books/software-quality.html</id>
     <link href="https://javaguide.cn/learning/books/software-quality.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>下面推荐都是我看过并且我觉得值得推荐的书籍。</p>
 <p>不过，这些书籍都比较偏理论，只能帮助你建立一个写优秀代码的意识标准。 如果你想要编写更高质量的代码、更高质量的软件，还是应该多去看优秀的源码，多去学习优秀的代码实践。</p>
 <h2>代码整洁之道</h2>
@@ -1774,13 +1774,13 @@ needed to move data.<br>
 </ul>
 ]]></content>
     <category term="计算机书籍"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">数组</title>
     <id>https://javaguide.cn/learning/c__/array.html</id>
     <link href="https://javaguide.cn/learning/c__/array.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>c++数组</h2>
 <ol>
 <li>全局数组，也就是定义在main函数外面的数组，元素的默认值是全部为0的</li>
@@ -1793,13 +1793,13 @@ needed to move data.<br>
 <li>局部数组，定义在函数内部的数组，其值默认是随机的</li>
 </ol>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">函数</title>
     <id>https://javaguide.cn/learning/c__/function.html</id>
     <link href="https://javaguide.cn/learning/c__/function.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>函数知识点</h2>
 <ol>
 <li>函数返回时一般是值传递，将函数内的变量进行复制然后传递。（类和基本类型变量都可以值传递）</li>
@@ -1893,13 +1893,13 @@ temp<span class="token operator">::</span><span class="token function">temp</spa
 4. [x]值捕获指定参数
 */</span>
 </code></pre></div>]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">头文件</title>
     <id>https://javaguide.cn/learning/c__/headFile.html</id>
     <link href="https://javaguide.cn/learning/c__/headFile.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>头文件调用</h2>
 <h3>hpp头文件调用类</h3>
 <p><br>
@@ -1914,13 +1914,13 @@ temp<span class="token operator">::</span><span class="token function">temp</spa
 </p>
 <h3>h头文件调用方法</h3>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">流对象</title>
     <id>https://javaguide.cn/learning/c__/stream.html</id>
     <link href="https://javaguide.cn/learning/c__/stream.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>c语言输入流</h2>
 <h3>具体实现的输入流：</h3>
 <ol>
@@ -2028,13 +2028,13 @@ ListNode operator+(int x,const ListNode &amp; node){
 	os&lt;&lt;t.hours&lt;&lt;"hours, "&lt;&lt;t.minutes&lt;&lt;" minutes";
 }
 </code></pre></div>]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">数据库基础知识总结</title>
     <id>https://javaguide.cn/learning/database/basis.html</id>
     <link href="https://javaguide.cn/learning/database/basis.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -2174,13 +2174,13 @@ sfs</p>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="数据库"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">字符集详解</title>
     <id>https://javaguide.cn/learning/database/character-set.html</id>
     <link href="https://javaguide.cn/learning/database/character-set.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>MySQL 字符编码集中有两套 UTF-8 编码实现：<strong><code>utf8</code></strong> 和 <strong><code>utf8mb4</code></strong>。</p>
 <p>如果使用 <strong><code>utf8</code></strong> 的话，存储 emoji 符号和一些比较复杂的汉字、繁体字就会出错。</p>
 <p>为什么会这样呢？这篇文章可以从源头给你解答。</p>
@@ -2379,13 +2379,13 @@ cmake <span class="token builtin class-name">.</span> <span class="token paramet
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="数据库"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">NoSQL基础知识总结</title>
     <id>https://javaguide.cn/learning/database/nosql.html</id>
     <link href="https://javaguide.cn/learning/database/nosql.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>NoSQL 是什么？</h2>
 <p>NoSQL（Not Only SQL 的缩写）泛指非关系型的数据库，主要针对的是键值、文档以及图形类型数据存储。并且，NoSQL 数据库天生支持分布式，数据冗余和数据分片等特性，旨在提供可扩展的高可用高性能数据存储解决方案。</p>
 <p>一个常见的误解是 NoSQL 数据库或非关系型数据库不能很好地存储关系型数据。NoSQL 数据库可以存储关系型数据—它们与关系型数据库的存储方式不同。</p>
@@ -2401,13 +2401,13 @@ cmake <span class="token builtin class-name">.</span> <span class="token paramet
 | :</p>
 ]]></content>
     <category term="数据库"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">API网关基础知识总结</title>
     <id>https://javaguide.cn/learning/distributed-system/api-gateway.html</id>
     <link href="https://javaguide.cn/learning/distributed-system/api-gateway.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>什么是网关？</h2>
 <p>微服务背景下，一个系统被拆分为多个服务，但是像安全认证，流量控制，日志，监控等功能是每个服务都需要的，没有网关的话，我们就需要在每个服务中单独实现，这使得我们做了很多重复的事情并且没有一个全局的视图来统一管理这些功能。</p>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/system-design/distributed-system/api-gateway-overview.png" alt="网关示意图" tabindex="0"><figcaption>网关示意图</figcaption></figure>]]></summary>
@@ -2568,13 +2568,13 @@ cmake <span class="token builtin class-name">.</span> <span class="token paramet
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="分布式"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">分布式配置中心常见问题总结(付费)</title>
     <id>https://javaguide.cn/learning/distributed-system/distributed-configuration-center.html</id>
     <link href="https://javaguide.cn/learning/distributed-system/distributed-configuration-center.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>分布式配置中心</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。</p>
 <figure><img src="https://oss.javaguide.cn/javamianshizhibei/distributed-system.png" alt="" tabindex="0"><figcaption></figcaption></figure>]]></summary>
     <content type="html"><![CDATA[<p><strong>分布式配置中心</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。</p>
@@ -2595,13 +2595,13 @@ cmake <span class="token builtin class-name">.</span> <span class="token paramet
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="分布式"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">分布式ID设计指南</title>
     <id>https://javaguide.cn/learning/distributed-system/distributed-id-design.html</id>
     <link href="https://javaguide.cn/learning/distributed-system/distributed-id-design.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">提示</p>
 <p>看到百度 Geek 说的一篇结合具体场景聊分布式 ID 设计的文章，感觉挺不错的。于是，我将这篇文章的部分内容整理到了这里。原文传送门：<a href="https://mp.weixin.qq.com/s/bFDLb6U6EgI-DvCdLTq_QA" target="_blank" rel="noopener noreferrer">分布式 ID 生成服务的技术原理和项目实战</a> 。</p>
@@ -2712,13 +2712,13 @@ cmake <span class="token builtin class-name">.</span> <span class="token paramet
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="分布式"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">分布式ID介绍&amp;实现方案总结</title>
     <id>https://javaguide.cn/learning/distributed-system/distributed-id.html</id>
     <link href="https://javaguide.cn/learning/distributed-system/distributed-id.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>分布式 ID 介绍</h2>
 <h3>什么是 ID？</h3>
 <p>日常开发中，我们需要对系统中的各种数据使用 ID 唯一表示，比如用户 ID 对应且仅对应一个人，商品 ID 对应且仅对应一件商品，订单 ID 对应且仅对应一个订单。</p>
@@ -2984,13 +2984,13 @@ OK
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="分布式"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">分布式锁常见实现方案总结</title>
     <id>https://javaguide.cn/learning/distributed-system/distributed-lock-implementations.html</id>
     <link href="https://javaguide.cn/learning/distributed-system/distributed-lock-implementations.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -3271,13 +3271,13 @@ client<span class="token punctuation">.</span><span class="token function">close
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="分布式"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">分布式锁介绍</title>
     <id>https://javaguide.cn/learning/distributed-system/distributed-lock.html</id>
     <link href="https://javaguide.cn/learning/distributed-system/distributed-lock.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -3349,13 +3349,13 @@ client<span class="token punctuation">.</span><span class="token function">close
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="分布式"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">分布式事务常见解决方案总结(付费)</title>
     <id>https://javaguide.cn/learning/distributed-system/distributed-transaction.html</id>
     <link href="https://javaguide.cn/learning/distributed-system/distributed-transaction.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>分布式事务</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。</p>
 <figure><img src="https://oss.javaguide.cn/javamianshizhibei/distributed-system.png" alt="" tabindex="0"><figcaption></figcaption></figure>]]></summary>
     <content type="html"><![CDATA[<p><strong>分布式事务</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了《Java 面试指北》中。</p>
@@ -3376,13 +3376,13 @@ client<span class="token punctuation">.</span><span class="token function">close
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="分布式"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Spring Cloud Gateway常见问题总结</title>
     <id>https://javaguide.cn/learning/distributed-system/spring-cloud-gateway-questions.html</id>
     <link href="https://javaguide.cn/learning/distributed-system/spring-cloud-gateway-questions.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>本文重构完善自<a href="https://mp.weixin.qq.com/s/XjFYsP1IUqNzWqXZdJn-Aw" target="_blank" rel="noopener noreferrer">6000 字 | 16 图 | 深入理解 Spring Cloud Gateway 的原理 - 悟空聊架构</a>这篇文章。</p>
 </blockquote>
@@ -3493,13 +3493,13 @@ client<span class="token punctuation">.</span><span class="token function">close
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="分布式"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">降级&amp;熔断详解(付费)</title>
     <id>https://javaguide.cn/learning/high-availability/fallback-and-circuit-breaker.html</id>
     <link href="https://javaguide.cn/learning/high-availability/fallback-and-circuit-breaker.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>降级&amp;熔断</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>]]></summary>
     <content type="html"><![CDATA[<p><strong>降级&amp;熔断</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>
 <p><a href="/learning/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a>（点击链接即可查看详细介绍）的部分内容展示如下，你可以将其看作是 <a href="https://javaguide.cn/#/" target="_blank" rel="noopener noreferrer">JavaGuide</a> 的补充完善，两者可以配合使用。</p>
@@ -3518,13 +3518,13 @@ client<span class="token punctuation">.</span><span class="token function">close
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高可用"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">高可用系统设计指南</title>
     <id>https://javaguide.cn/learning/high-availability/high-availability-system-design.html</id>
     <link href="https://javaguide.cn/learning/high-availability/high-availability-system-design.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>什么是高可用？可用性的判断标准是啥？</h2>
 <p>高可用描述的是一个系统在大部分时间都是可用的，可以为我们提供服务的。高可用代表系统即使在发生硬件故障或者系统升级的时候，服务仍然是可用的。</p>
 <p>一般情况下，我们使用多少个 9 来评判一个系统的可用性，比如 99.9999% 就是代表该系统在所有的运行时间中只有 0.0001% 的时间是不可用的，这样的系统就是非常非常高可用的了！当然，也会有系统如果可用性不太好的话，可能连 9 都上不了。</p>
@@ -3577,13 +3577,13 @@ client<span class="token punctuation">.</span><span class="token function">close
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高可用"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">服务限流详解</title>
     <id>https://javaguide.cn/learning/high-availability/limit-request.html</id>
     <link href="https://javaguide.cn/learning/high-availability/limit-request.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>针对软件系统来说，限流就是对请求的速率进行限制，避免瞬时的大量请求击垮软件系统。毕竟，软件系统的处理能力是有限的。如果说超过了其处理能力的范围，软件系统可能直接就挂掉了。</p>
 <p>限流可能会导致用户的请求无法被正确处理或者无法立即被处理，不过，这往往也是权衡了软件系统的稳定性之后得到的最优解。</p>
 <p>现实生活中，处处都有限流的实际应用，就比如排队买票是为了避免大量用户涌入购票而导致售票员无法处理。</p>
@@ -3813,13 +3813,13 @@ rateLimiter<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高可用"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">性能测试入门</title>
     <id>https://javaguide.cn/learning/high-availability/performance-test.html</id>
     <link href="https://javaguide.cn/learning/high-availability/performance-test.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>性能测试一般情况下都是由测试这个职位去做的，那还需要我们开发学这个干嘛呢？了解性能测试的指标、分类以及工具等知识有助于我们更好地去写出性能更好的程序，另外作为开发这个角色，如果你会性能测试的话，相信也会为你的履历加分不少。</p>
 <p>这篇文章是我会结合自己的实际经历以及在测试这里取的经所得，除此之外，我还借鉴了一些优秀书籍，希望对你有帮助。</p>
 <h2>一 不同角色看网站性能</h2>
@@ -3928,13 +3928,13 @@ rateLimiter<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高可用"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">冗余设计详解</title>
     <id>https://javaguide.cn/learning/high-availability/redundancy.html</id>
     <link href="https://javaguide.cn/learning/high-availability/redundancy.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>冗余设计是保证系统和数据高可用的最常的手段。</p>
 <p>对于服务来说，冗余的思想就是相同的服务部署多份，如果正在使用的服务突然挂掉的话，系统可以很快切换到备份服务上，大大减少系统的不可用时间，提高系统的可用性。</p>
 <p>对于数据来说，冗余的思想就是相同的数据备份多份，这样就可以很简单地提高数据的安全性。</p>
@@ -3970,13 +3970,13 @@ rateLimiter<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高可用"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">超时&amp;重试详解</title>
     <id>https://javaguide.cn/learning/high-availability/timeout-and-retry.html</id>
     <link href="https://javaguide.cn/learning/high-availability/timeout-and-retry.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>由于网络问题、系统或者服务内部的 Bug、服务器宕机、操作系统崩溃等问题的不确定性，我们的系统或者服务永远不可能保证时刻都是可用的状态。</p>
 <p>为了最大限度的减小系统或者服务出现故障之后带来的影响，我们需要用到的 <strong>超时（Timeout）</strong> 和 <strong>重试（Retry）</strong> 机制。</p>
 <p>想要把超时和重试机制讲清楚其实很简单，因为它俩本身就不是什么高深的概念。</p>
@@ -4031,13 +4031,13 @@ rateLimiter<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高可用"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">CDN工作原理详解</title>
     <id>https://javaguide.cn/learning/high-performance/cdn.html</id>
     <link href="https://javaguide.cn/learning/high-performance/cdn.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>什么是 CDN ？</h2>
 <p><strong>CDN</strong> 全称是 Content Delivery Network/Content Distribution Network，翻译过的意思是 <strong>内容分发网络</strong> 。</p>
 <p>我们可以将内容分发网络拆开来看：</p>
@@ -4133,13 +4133,13 @@ rateLimiter<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高性能"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">数据冷热分离详解</title>
     <id>https://javaguide.cn/learning/high-performance/data-cold-hot-separation.html</id>
     <link href="https://javaguide.cn/learning/high-performance/data-cold-hot-separation.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>什么是数据冷热分离？</h2>
 <p>数据冷热分离是指根据数据的访问频率和业务重要性，将数据分为冷数据和热数据，冷数据一般存储在存储在低成本、低性能的介质中，热数据高性能存储介质中。</p>
 <h3>冷数据和热数据</h3>
@@ -4196,13 +4196,13 @@ rateLimiter<span class="token punctuation">.</span><span class="token function">
 </ul>
 ]]></content>
     <category term="高性能"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">深度分页介绍及优化建议</title>
     <id>https://javaguide.cn/learning/high-performance/deep-pagination-optimization.html</id>
     <link href="https://javaguide.cn/learning/high-performance/deep-pagination-optimization.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>深度分页介绍</h2>
 <p>查询偏移量过大的场景我们称为深度分页，这会导致查询性能较低，例如：</p>
 <div class="language-sql" data-ext="sql" data-title="sql"><pre class="language-sql"><code><span class="token comment"># MySQL 在无法利用索引的情况下跳过1000000条记录后，再获取10条记录</span>
@@ -4261,13 +4261,13 @@ rateLimiter<span class="token punctuation">.</span><span class="token function">
 </ul>
 ]]></content>
     <category term="高性能"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">负载均衡原理及算法详解</title>
     <id>https://javaguide.cn/learning/high-performance/load-balancing.html</id>
     <link href="https://javaguide.cn/learning/high-performance/load-balancing.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>什么是负载均衡？</h2>
 <p><strong>负载均衡</strong> 指的是将用户请求分摊到不同的服务器上处理，以提高系统整体的并发处理能力以及可靠性。负载均衡服务可以有由专门的软件或者硬件来完成，一般情况下，硬件的性能更好，软件的价格更便宜（后文会详细介绍到）。</p>
 <p>下图是<a href="https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&amp;mid=2247519384&amp;idx=1&amp;sn=bc7e71af75350b755f04ca4178395b1a&amp;chksm=cea1c353f9d64a458f797696d4144b4d6e58639371a4612b8e4d106d83a66d2289e7b2cd7431&amp;token=660789642&amp;lang=zh_CN&amp;scene=21#wechat_redirect" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a> 「高并发篇」中的一篇文章的配图，从图中可以看出，系统的商品服务部署了多份在不同的服务器上，为了实现访问商品服务请求的分流，我们用到了负载均衡。</p>]]></summary>
@@ -4435,13 +4435,13 @@ rateLimiter<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高性能"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">读写分离和分库分表详解</title>
     <id>https://javaguide.cn/learning/high-performance/read-and-write-separation-and-library-subtable.html</id>
     <link href="https://javaguide.cn/learning/high-performance/read-and-write-separation-and-library-subtable.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>读写分离</h2>
 <h3>什么是读写分离？</h3>
 <p>见名思意，根据读写分离的名字，我们就可以知道：<strong>读写分离主要是为了将对数据库的读写操作分散到不同的数据库节点上。</strong> 这样的话，就能够小幅提升写性能，大幅提升读性能。</p>
@@ -4638,13 +4638,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高性能"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">常见SQL优化手段总结（付费）</title>
     <id>https://javaguide.cn/learning/high-performance/sql-optimization.html</id>
     <link href="https://javaguide.cn/learning/high-performance/sql-optimization.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>常见 SQL 优化手段总结</strong> 相关的内容为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>]]></summary>
     <content type="html"><![CDATA[<p><strong>常见 SQL 优化手段总结</strong> 相关的内容为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>
 <figure><img src="https://oss.javaguide.cn/javamianshizhibei/sql-optimization.png" alt="" tabindex="0"><figcaption></figcaption></figure>
@@ -4664,13 +4664,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="高性能"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">程序人生</title>
     <id>https://javaguide.cn/learning/high-quality-technical-articles/</id>
     <link href="https://javaguide.cn/learning/high-quality-technical-articles/"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[
 <div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
@@ -4729,13 +4729,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 </ul>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">优质面经汇总(付费)</title>
     <id>https://javaguide.cn/learning/interview-preparation/interview-experience.html</id>
     <link href="https://javaguide.cn/learning/interview-preparation/interview-experience.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>古人云:“<strong>他山之石，可以攻玉</strong>” 。善于学习借鉴别人的面试的成功经验或者失败的教训，可以让自己少走许多弯路。</p>
 <p>在 <strong><a href="/learning/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong> 的 <strong>「面经篇」</strong> ，我分享了 15+ 篇高质量的 Java 后端面经，有校招的，也有社招的，有大厂的，也有中小厂的。</p>
 <p>如果你是非科班的同学，也能在这些文章中找到对应的非科班的同学写的面经。</p>]]></summary>
@@ -4768,13 +4768,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <p>不过， <strong>一定要确定需要再进</strong> 。并且， <strong>三天之内觉得内容不满意可以全额退款</strong> 。</p>
 ]]></content>
     <category term="知识星球"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java面试重点总结(重要)</title>
     <id>https://javaguide.cn/learning/interview-preparation/key-points-of-interview.html</id>
     <link href="https://javaguide.cn/learning/interview-preparation/key-points-of-interview.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">友情提示</p>
 <p>本文节选自 <strong><a href="/learning/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong>。这是一份教你如何更高效地准备面试的小册，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。</p>
@@ -4806,13 +4806,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <p>最后，准备技术面试的同学一定要定期复习（自测的方式非常好），不然确实会遗忘的。</p>
 ]]></content>
     <category term="面试准备"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">项目经验指南</title>
     <id>https://javaguide.cn/learning/interview-preparation/project-experience-guide.html</id>
     <link href="https://javaguide.cn/learning/interview-preparation/project-experience-guide.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">友情提示</p>
 <p>本文节选自 <strong><a href="/learning/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong>。这是一份教你如何更高效地准备面试的小册，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。</p>
@@ -4887,13 +4887,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/xingqiu/up-6b618ad3bad0bc3f76e6066d90c8cd2f255.png" alt="" tabindex="0"><figcaption></figcaption></figure>
 ]]></content>
     <category term="面试准备"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">程序员简历编写指南(重要)</title>
     <id>https://javaguide.cn/learning/interview-preparation/resume-guide.html</id>
     <link href="https://javaguide.cn/learning/interview-preparation/resume-guide.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">友情提示</p>
 <p>本文节选自 <strong><a href="/learning/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong>。这是一份教你如何更高效地准备面试的小册，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。</p>
@@ -5115,13 +5115,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <figure><img src="https://oss.javaguide.cn/xingqiu/xingqiuyouhuijuan-30.jpg" alt="知识星球30元优惠卷" tabindex="0"><figcaption>知识星球30元优惠卷</figcaption></figure>
 ]]></content>
     <category term="面试准备"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">常见面试题自测(付费)</title>
     <id>https://javaguide.cn/learning/interview-preparation/self-test-of-common-interview-questions.html</id>
     <link href="https://javaguide.cn/learning/interview-preparation/self-test-of-common-interview-questions.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>面试之前，强烈建议大家多拿常见的面试题来进行自测，检查一下自己的掌握情况，这是一种非常实用的备战技术面试的小技巧。</p>
 <p>在 <strong><a href="/learning/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong> 的 <strong>「技术面试题自测篇」</strong> ，我总结了 Java 面试中最重要的知识点的最常见的面试题并按照面试提问的方式展现出来。</p>
 <figure><img src="https://oss.javaguide.cn/xingqiu/image-20220628102643202.png" alt="" tabindex="0"><figcaption></figcaption></figure>]]></summary>
@@ -5146,13 +5146,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <p>不过， <strong>一定要确定需要再进</strong> 。并且， <strong>三天之内觉得内容不满意可以全额退款</strong> 。</p>
 ]]></content>
     <category term="知识星球"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">手把手教你如何准备Java面试(重要)</title>
     <id>https://javaguide.cn/learning/interview-preparation/teach-you-how-to-prepare-for-the-interview-hand-in-hand.html</id>
     <link href="https://javaguide.cn/learning/interview-preparation/teach-you-how-to-prepare-for-the-interview-hand-in-hand.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">友情提示</p>
 <p>本文节选自 <strong><a href="/learning/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong>。这是一份教你如何更高效地准备面试的小册，涵盖常见八股文（系统设计、常见框架、分布式、高并发 ……）、优质面经等内容。</p>
@@ -5314,13 +5314,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 </ol>
 ]]></content>
     <category term="知识星球"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">贡献指南</title>
     <id>https://javaguide.cn/learning/javaguide/contribution-guideline.html</id>
     <link href="https://javaguide.cn/learning/javaguide/contribution-guideline.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>欢迎参与 JavaGuide 的维护工作，这是一件非常有意义的事情。详细信息请看：<a href="https://zhuanlan.zhihu.com/p/464832264" target="_blank" rel="noopener noreferrer">JavaGuide 贡献指南</a> 。</p>
 <p>你可以从下面几个方向来做贡献：</p>
 <ul>
@@ -5353,13 +5353,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <p>另外，你可以参考学习别人的文章，但一定一定一定不能复制粘贴别人的内容，努力比别人写的更容易理解，用自己的话讲出来，适当简化表达，突出重点！</p>
 ]]></content>
     <category term="走近项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">常见问题</title>
     <id>https://javaguide.cn/learning/javaguide/faq.html</id>
     <link href="https://javaguide.cn/learning/javaguide/faq.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>JavaGuide 是否支持 RSS？</h2>
 <p>必须支持！推荐 RSS 订阅本网站获取最新更新。</p>
 <h2>JavaGuide 有没有 PDF 版本？</h2>
@@ -5396,13 +5396,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <p><strong>用心做内容，真心希望能帮助到其他人。</strong></p>
 ]]></content>
     <category term="走近项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">网站历史</title>
     <id>https://javaguide.cn/learning/javaguide/history.html</id>
     <link href="https://javaguide.cn/learning/javaguide/history.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>由于项目内容一直持续在更新迭代，所以，这里就不记录项目内容的具体更新情况了。</p>
 <p>你可以通过 <a href="https://javaguide.cn/feed.json" target="_blank" rel="noopener noreferrer">RSS 订阅</a>获取网站的最新更新，你还可以通过 <a href="https://javaguide.cn/article/" target="_blank" rel="noopener noreferrer">https://javaguide.cn/article/</a>获取到网站最新更新的文章。</p>
 <figure><img src="https://oss.javaguide.cn/github/javaguideimage-20220614172338606.png" alt="" tabindex="0"><figcaption></figcaption></figure>]]></summary>
@@ -5420,13 +5420,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 </ul>
 ]]></content>
     <category term="走近项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">项目介绍</title>
     <id>https://javaguide.cn/learning/javaguide/intro.html</id>
     <link href="https://javaguide.cn/learning/javaguide/intro.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>自我介绍</h2>
 <p>我是 25 年大学毕业的，和这个项目原本的开源作者一样，我也是大三准备面试的时候开始寻找面试资料。在查找资料的时候发现有这样一个开源项目，在这里非常感谢原作者的开源精神！</p>
 <p>我就根据这个开源项目进行增加内容，增加了原本没有的技术内容，根据我自己的学习路线开发适用于我的面试技术指南。</p>
@@ -5447,13 +5447,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 </ul>
 ]]></content>
     <category term="走近项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">使用建议</title>
     <id>https://javaguide.cn/learning/javaguide/use-suggestion.html</id>
     <link href="https://javaguide.cn/learning/javaguide/use-suggestion.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>对于不准备面试的同学来说</strong> ，本文档倾向于给你提供一个比较详细的学习路径，目录清晰，让你对于 Java 整体的知识体系有一个清晰认识。你可以跟着视频、书籍或者官方文档学习完某个知识点之后，然后来这里找对应的总结，帮助你更好地掌握对应的知识点。甚至说，你在有编程基础的情况下，想要学习某个知识点的话，可以直接看我的总结，这样学习效率会非常高。</p>
 <p><strong>对于准备面试的同学来说</strong> ，本文档涵盖 Java 程序员所需要掌握的核心知识的常见面试问题总结。</p>
 <p>大部分人看 JavaGuide 应该都是为了准备技术八股文。<strong>那如何才能更高效地准备技术八股文？</strong></p>]]></summary>
@@ -5470,24 +5470,24 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 <p>最后，准备技术面试的同学一定要定期复习（自测的方式非常好），不然确实会遗忘的。</p>
 ]]></content>
     <category term="走近项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text"></title>
     <id>https://javaguide.cn/learning/knowledge/</id>
     <link href="https://javaguide.cn/learning/knowledge/"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>计算机必备知识</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>计算机必备知识</p>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Bash和Shell程序</title>
     <id>https://javaguide.cn/learning/linux/bash.html</id>
     <link href="https://javaguide.cn/learning/linux/bash.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>Shell</h2>
 <ul>
 <li>壳程序，调用其他应用程序</li>
@@ -5512,13 +5512,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 </ul>
 ]]></content>
     <category term="Linux"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">基础知识</title>
     <id>https://javaguide.cn/learning/linux/basis.html</id>
     <link href="https://javaguide.cn/learning/linux/basis.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>Linux基础</h2>
 <h3>目录配置</h3>
 <ol>
@@ -5601,13 +5601,13 @@ hintManager<span class="token punctuation">.</span><span class="token function">
 </ul>
 ]]></content>
     <category term="Linux"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Daemon和Service</title>
     <id>https://javaguide.cn/learning/linux/daemon.html</id>
     <link href="https://javaguide.cn/learning/linux/daemon.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>daemon</h2>
 <p><strong>类似于服务</strong></p>
 <h2>systemd</h2>
@@ -5667,13 +5667,13 @@ multi-user.target 是一个 Systemd 的目标单元，代表了多用户模式�
 </ul>
 ]]></content>
     <category term="Linux"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">nginx</title>
     <id>https://javaguide.cn/learning/linux/nginx.html</id>
     <link href="https://javaguide.cn/learning/linux/nginx.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="language-text" data-ext="text" data-title="text"><pre class="language-text"><code>server {
         listen       82;
         listen       [::]:82;
@@ -5727,13 +5727,13 @@ multi-user.target 是一个 Systemd 的目标单元，代表了多用户模式�
     }
 </code></pre></div>]]></content>
     <category term="linux"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">RPM基础</title>
     <id>https://javaguide.cn/learning/linux/rpm.html</id>
     <link href="https://javaguide.cn/learning/linux/rpm.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h3>RPM</h3>
 <p>RPM软件管理程序：rpm</p>
 <ul>
@@ -5761,13 +5761,13 @@ rpm -ivh pam-devel...
 umonut /mnt
 </code></pre></div>]]></content>
     <category term="Linux"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">用户组</title>
     <id>https://javaguide.cn/learning/linux/usergroup.html</id>
     <link href="https://javaguide.cn/learning/linux/usergroup.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="language-bash" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token function">useradd</span> 选项 用户名
 </code></pre></div><blockquote>
 <p>-c comment 指定一段注释性描述。<br>
@@ -5792,13 +5792,13 @@ umonut /mnt
 </blockquote>
 <div class="language-bash" data-ext="sh" data-title="sh"><pre class="language-bash"><code><span class="token function">usermod</span> 选项 用户名
 </code></pre></div>]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">.Net基础</title>
     <id>https://javaguide.cn/learning/net/basis.html</id>
     <link href="https://javaguide.cn/learning/net/basis.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>.Net</h2>
 <p>提供的内容：</p>
 <ul>
@@ -5823,13 +5823,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 <p>基于.Net平台进行专门用于web应用的扩展<br>
 提供的内容：</p>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">神经网络基础</title>
     <id>https://javaguide.cn/learning/neural-network/basis.html</id>
     <link href="https://javaguide.cn/learning/neural-network/basis.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>顶会期刊</h2>
 <h3>Database</h3>
 <ul>
@@ -5904,13 +5904,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 <p><a href="https://zhuanlan.zhihu.com/p/87189934" target="_blank" rel="noopener noreferrer">知乎的链接</a></p>
 ]]></content>
     <category term="神经网络"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">论文写作</title>
     <id>https://javaguide.cn/learning/neural-network/paper-related.html</id>
     <link href="https://javaguide.cn/learning/neural-network/paper-related.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>基本要求</h2>
 <ul>
 <li>主题相关：
@@ -5961,13 +5961,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 <p>数据资源和方法</p>
 ]]></content>
     <category term="论文"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">包管理器</title>
     <id>https://javaguide.cn/learning/node/package-manager.html</id>
     <link href="https://javaguide.cn/learning/node/package-manager.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>PNPM</h2>
 <p>PNPM 是一种 JavaScript 包管理器，类似于 npm 和 Yarn。</p>
 <p>PNPM 的全称是"Plug'n'Play NPM"，它的主要目标是改进包的安装和管理过程，减少磁盘占用和提高性能。</p>
@@ -5997,13 +5997,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 </ul>
 ]]></content>
     <category term="node.js"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 优质开源大数据项目</title>
     <id>https://javaguide.cn/learning/open-source-project/big-data.html</id>
     <link href="https://javaguide.cn/learning/open-source-project/big-data.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<ul>
 <li><strong><a href="https://github.com/apache/spark" target="_blank" rel="noopener noreferrer">Spark</a></strong> :Spark 是用于大规模数据处理的统一分析引擎。</li>
 <li><strong><a href="https://github.com/apache/flink" title="flink" target="_blank" rel="noopener noreferrer">Flink</a></strong>：Apache Flink 是一个框架和分布式处理引擎，用于在<em>无边界和有边界</em>数据流上进行有状态的计算。Flink 能在所有常见集群环境中运行，并能以内存速度和任意规模进行计算。</li>
@@ -6020,13 +6020,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 </ul>
 ]]></content>
     <category term="开源项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 优质开源 AI 项目</title>
     <id>https://javaguide.cn/learning/open-source-project/machine-learning.html</id>
     <link href="https://javaguide.cn/learning/open-source-project/machine-learning.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>由于 Java 在 AI 领域应用较少，因此相关的开源项目也非常少：</p>
 <ul>
 <li><a href="https://github.com/spring-projects/spring-ai" target="_blank" rel="noopener noreferrer">Spring AI</a>：人工智能工程应用框架，为开发 AI 应用程序提供了 Spring 友好的 API 和抽象。</li>
@@ -6047,13 +6047,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 </ul>
 ]]></content>
     <category term="开源项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 优质开源实战项目</title>
     <id>https://javaguide.cn/learning/open-source-project/practical-project.html</id>
     <link href="https://javaguide.cn/learning/open-source-project/practical-project.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>快速开发平台</h2>
 <ul>
 <li><a href="https://gitee.com/xiaonuobase/snowy" target="_blank" rel="noopener noreferrer">Snowy</a>：国内首个国密前后端分离快速开发平台。详细介绍：<a href="https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&amp;mid=2247534316&amp;idx=1&amp;sn=69938397674fc33ecda43c8c9d0a4039&amp;chksm=cea10927f9d68031bc862485c6be984ade5af233d4d871d498c38f22164a84314678c0c67cd7&amp;token=1464380539&amp;lang=zh_CN#rd" target="_blank" rel="noopener noreferrer">5.1k！这是我见过最强的前后端分离快速开发脚手架！！</a>。</li>
@@ -6148,13 +6148,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 </ul>
 ]]></content>
     <category term="开源项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 开源项目精选</title>
     <id>https://javaguide.cn/learning/open-source-project/</id>
     <link href="https://javaguide.cn/learning/open-source-project/"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<div class="hint-container tip">
 <p class="hint-container-title">这是一则或许对你有用的小广告</p>
 <ul>
@@ -6209,13 +6209,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 <figure><img src="https://oss.javaguide.cn/github/javaguide/books167598cd2e17b8ec.png" alt="我的公众号" tabindex="0"><figcaption>我的公众号</figcaption></figure>
 ]]></content>
     <category term="开源项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 优质开源系统设计项目</title>
     <id>https://javaguide.cn/learning/open-source-project/system-design.html</id>
     <link href="https://javaguide.cn/learning/open-source-project/system-design.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>基础框架</h2>
 <h3>Web 框架</h3>
 <ul>
@@ -6443,13 +6443,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 </ul>
 ]]></content>
     <category term="开源项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 优质开源工具类</title>
     <id>https://javaguide.cn/learning/open-source-project/tool-library.html</id>
     <link href="https://javaguide.cn/learning/open-source-project/tool-library.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>代码质量</h2>
 <ul>
 <li><a href="https://github.com/rzwitserloot/lombok" target="_blank" rel="noopener noreferrer">lombok</a> :使用 Lombok 我们可以简化我们的 Java 代码，比如使用它之后我们通过注释就可以实现 getter/setter、equals 等方法。</li>
@@ -6527,13 +6527,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 </ul>
 ]]></content>
     <category term="开源项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 优质开源开发工具</title>
     <id>https://javaguide.cn/learning/open-source-project/tools.html</id>
     <link href="https://javaguide.cn/learning/open-source-project/tools.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>项目构建</h2>
 <ul>
 <li><a href="https://maven.apache.org/" target="_blank" rel="noopener noreferrer">Maven</a>：一个软件项目管理和理解工具。基于项目对象模型 (Project Object Model，POM) 的概念，Maven 可以从一条中心信息管理项目的构建、报告和文档。详细介绍：<a href="https://javaguide.cn/tools/maven/maven-core-concepts.html" target="_blank" rel="noopener noreferrer">Maven 核心概念总结</a>。</li>
@@ -6597,13 +6597,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 </ul>
 ]]></content>
     <category term="开源项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 优质开源技术教程</title>
     <id>https://javaguide.cn/learning/open-source-project/tutorial.html</id>
     <link href="https://javaguide.cn/learning/open-source-project/tutorial.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>Java</h2>
 <ul>
 <li><a href="https://github.com/Snailclimb/JavaGuide" title="JavaGuide" target="_blank" rel="noopener noreferrer">JavaGuide</a> :【Java 学习+面试指南】 一份涵盖大部分 Java 程序员所需要掌握的核心知识。</li>
@@ -6671,13 +6671,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 </ul>
 ]]></content>
     <category term="开源项目"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">大创项目</title>
     <id>https://javaguide.cn/learning/projects/WebAPI.html</id>
     <link href="https://javaguide.cn/learning/projects/WebAPI.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>表达式树</h2>
 <p>表达式树由一系列表达式节点（Expression Node）组成，每个节点表示代码中的一个操作或值。这些节点有不同的类型，例如：</p>
 <h2>查询表达式</h2>
@@ -6813,32 +6813,32 @@ string encoded = HtmlEncoder.Default.Encode(input);
         <span class="token keyword">return</span> query<span class="token punctuation">.</span><span class="token function">Where</span><span class="token punctuation">(</span>p <span class="token operator">=&gt;</span> p<span class="token punctuation">.</span>Name<span class="token punctuation">.</span><span class="token function">Contains</span><span class="token punctuation">(</span>name<span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">.</span><span class="token generic-method"><span class="token function">Cast</span><span class="token generic class-name"><span class="token punctuation">&lt;</span><span class="token keyword">object</span><span class="token punctuation">&gt;</span></span></span><span class="token punctuation">(</span><span class="token punctuation">)</span><span class="token punctuation">;</span>
     <span class="token punctuation">}</span><span class="token punctuation">;</span>
 </code></pre></div>]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">综合项目实践</title>
     <id>https://javaguide.cn/learning/projects/general-projects.html</id>
     <link href="https://javaguide.cn/learning/projects/general-projects.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <category term="projects"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text"></title>
     <id>https://javaguide.cn/learning/projects/</id>
     <link href="https://javaguide.cn/learning/projects/"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>这是本人大学期间所做项目的经验</p>
 ]]></summary>
     <content type="html"><![CDATA[<p>这是本人大学期间所做项目的经验</p>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Python基础</title>
     <id>https://javaguide.cn/learning/python/basis.html</id>
     <link href="https://javaguide.cn/learning/python/basis.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>为什么Python运行慢</h2>
 <ol>
 <li>解释性语言，边运行边编译，其他语言在运行之前就编译成字节码</li>
@@ -6866,13 +6866,13 @@ string encoded = HtmlEncoder.Default.Encode(input);
 <li>很多科学计算库，方便科研</li>
 </ol>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Servlet 总结</title>
     <id>https://javaguide.cn/learning/system-design/J2EE%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html</id>
     <link href="https://javaguide.cn/learning/system-design/J2EE%E5%9F%BA%E7%A1%80%E7%9F%A5%E8%AF%86.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[
 <p>在 Java Web 程序中，<strong>Servlet</strong>主要负责接收用户请求 <code>HttpServletRequest</code>,在<code>doGet()</code>,<code>doPost()</code>中做相应的处理，并将回应<code>HttpServletResponse</code>反馈给用户。<strong>Servlet</strong> 可以设置初始化参数，供 Servlet 内部使用。一个 Servlet 类只会有一个实例，在它初始化时调用<code>init()</code>方法，销毁时调用<code>destroy()</code>方法**。**Servlet 需要在 web.xml 中配置（MyEclipse 中创建 Servlet 会自动配置），<strong>一个 Servlet 可以设置多个 URL 访问</strong>。<strong>Servlet 不是线程安全</strong>，因此要谨慎使用类变量。</p>]]></summary>
     <content type="html"><![CDATA[
@@ -7081,13 +7081,13 @@ response<span class="token punctuation">.</span><span class="token function">add
 <p>Cookie 存储在客户端中，而 Session 存储在服务器上，相对来说 Session 安全性更高。如果使用 Cookie 的一些敏感信息不要写入 Cookie 中，最好能将 Cookie 信息加密然后使用到的时候再去服务器端解密。</p>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">设计模式常见面试题总结</title>
     <id>https://javaguide.cn/learning/system-design/design-pattern.html</id>
     <link href="https://javaguide.cn/learning/system-design/design-pattern.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>设计模式</strong> 相关的面试题已经整理到了 PDF 手册中，你可以在我的公众号“<strong>JavaGuide</strong>”后台回复“<strong>PDF</strong>” 获取。</p>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 <p><strong>《设计模式》PDF 电子书内容概览</strong>：</p>]]></summary>
@@ -7098,13 +7098,13 @@ response<span class="token punctuation">.</span><span class="token function">add
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="系统设计"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Java 定时任务详解</title>
     <id>https://javaguide.cn/learning/system-design/schedule-task.html</id>
     <link href="https://javaguide.cn/learning/system-design/schedule-task.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>为什么需要定时任务？</h2>
 <p>我们来看一下几个非常常见的业务场景：</p>
 <ol>
@@ -7284,13 +7284,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 | :</p>
 ]]></content>
     <category term="系统设计"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">系统设计常见面试题总结(付费)</title>
     <id>https://javaguide.cn/learning/system-design/system-design-questions.html</id>
     <link href="https://javaguide.cn/learning/system-design/system-design-questions.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p><strong>系统设计</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>]]></summary>
     <content type="html"><![CDATA[<p><strong>系统设计</strong> 相关的面试题为我的<a href="https://javaguide.cn/about-the-author/zhishixingqiu-two-years.html" target="_blank" rel="noopener noreferrer">知识星球</a>（点击链接即可查看详细介绍以及加入方法）专属内容，已经整理到了<a href="https://javaguide.cn/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank" rel="noopener noreferrer">《Java 面试指北》</a>中。</p>
 <figure><img src="https://oss.javaguide.cn/javamianshizhibei/system-design-questions.png" alt="" tabindex="0"><figcaption></figcaption></figure>
@@ -7310,13 +7310,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="Java面试指北"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">Web 实时消息推送详解</title>
     <id>https://javaguide.cn/learning/system-design/web-real-time-message-push.html</id>
     <link href="https://javaguide.cn/learning/system-design/web-real-time-message-push.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>原文地址：<a href="https://juejin.cn/post/7122014462181113887%EF%BC%8CJavaGuide" target="_blank" rel="noopener noreferrer">https://juejin.cn/post/7122014462181113887，JavaGuide</a> 对本文进行了完善总结。</p>
 </blockquote>
@@ -7674,13 +7674,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 |</p>
 ]]></content>
     <category term="系统设计"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">git版本管理</title>
     <id>https://javaguide.cn/learning/vcs/git.html</id>
     <link href="https://javaguide.cn/learning/vcs/git.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>git基本操作</h2>
 <h3>merge</h3>
 <p>在 Git 中，“合并”指的是将两个或多个不同的分支或线性提交历史中的更改集成到一起。</p>
@@ -7761,13 +7761,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 <p>Git会拒绝推送并显示一个错误消息，提示你先提交你的修改。这是因为Git要求在推送之前先将本地的修改提交到本地仓库。</p>
 ]]></content>
     <category term="vcs"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">WebRtc</title>
     <id>https://javaguide.cn/learning/web/webrtc.html</id>
     <link href="https://javaguide.cn/learning/web/webrtc.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>协议</h2>
 <h3>ICE（Interactive Connectivity Establishment）</h3>
 <figure><figcaption>ICE信息交换整个过程</figcaption></figure>
@@ -7839,13 +7839,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 </ul>
 ]]></content>
     <category term="web"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">《后端面试高频系统设计&amp;场景题》</title>
     <id>https://javaguide.cn/learning/zhuanlan/back-end-interview-high-frequency-system-design-and-scenario-questions.html</id>
     <link href="https://javaguide.cn/learning/zhuanlan/back-end-interview-high-frequency-system-design-and-scenario-questions.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>介绍</h2>
 <p><strong>《后端面试高频系统设计&amp;场景题》</strong> 是我的<a href="/learning/about-the-author/zhishixingqiu-two-years.html" target="_blank">知识星球</a>的一个内部小册，包含了常见的系统设计案例比如短链系统、秒杀系统以及高频的场景题比如海量数据去重、第三方授权登录。</p>
 <p>近年来，随着国内的技术面试越来越卷，越来越多的公司开始在面试中考察系统设计和场景问题，以此来更全面的考察求职者，不论是校招还是社招。不过，正常面试全是场景题的情况还是极少的，面试官一般会在面试中穿插一两个系统设计和场景题来考察你。</p>]]></summary>
@@ -7873,13 +7873,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 <p>不过， <strong>一定要确定需要再进</strong> 。并且， <strong>三天之内觉得内容不满意可以全额退款</strong> 。</p>
 ]]></content>
     <category term="知识星球"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">《手写 RPC 框架》</title>
     <id>https://javaguide.cn/learning/zhuanlan/handwritten-rpc-framework.html</id>
     <link href="https://javaguide.cn/learning/zhuanlan/handwritten-rpc-framework.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>介绍</h2>
 <p><strong>《手写 RPC 框架》</strong> 是我的<a href="/learning/about-the-author/zhishixingqiu-two-years.html" target="_blank">知识星球</a>的一个内部小册，我写了 12 篇文章来讲解如何从零开始基于 Netty+Kyro+Zookeeper 实现一个简易的 RPC 框架。</p>
 <p>麻雀虽小五脏俱全，项目代码注释详细，结构清晰，并且集成了 Check Style 规范代码结构，非常适合阅读和学习。</p>
@@ -7911,13 +7911,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 <p>不过， <strong>一定要确定需要再进</strong> 。并且， <strong>三天之内觉得内容不满意可以全额退款</strong> 。</p>
 ]]></content>
     <category term="知识星球"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">《Java 面试指北》</title>
     <id>https://javaguide.cn/learning/zhuanlan/java-mian-shi-zhi-bei.html</id>
     <link href="https://javaguide.cn/learning/zhuanlan/java-mian-shi-zhi-bei.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>我花费了三年的时间，写了一本针对 Java 面试的《Java 面试指北》，内容质量非常高，非常适合准备 Java 面试的朋友使用！</p>
 <p>目前的成绩：累计阅读 <strong>270w+</strong> ，点赞 <strong>3550+</strong> ，评论 <strong>1130+</strong> （几乎每一条提问类型的评论我看到后都会用心回复）。</p>
 <figure><img src="https://oss.javaguide.cn/xingqiu/java-interview-guide-statistics.png" alt="《Java 面试指北》统计" tabindex="0"><figcaption>《Java 面试指北》统计</figcaption></figure>]]></summary>
@@ -7979,13 +7979,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 <p>不过， <strong>一定要确定需要再进</strong> 。并且， <strong>三天之内觉得内容不满意可以全额退款</strong> 。</p>
 ]]></content>
     <category term="知识星球"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">星球专属优质专栏概览</title>
     <id>https://javaguide.cn/learning/zhuanlan/</id>
     <link href="https://javaguide.cn/learning/zhuanlan/"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<p>这部分的内容为我的<a href="/learning/about-the-author/zhishixingqiu-two-years.html" target="_blank">知识星球</a>专属，目前已经更新了下面这些专栏：</p>
 <ul>
 <li><strong><a href="/learning/zhuanlan/java-mian-shi-zhi-bei.html" target="_blank">《Java 面试指北》</a></strong> : 与 JavaGuide 开源版的内容互补！</li>
@@ -8020,13 +8020,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 <p>不过， <strong>一定要确定需要再进</strong> 。并且， <strong>三天之内觉得内容不满意可以全额退款</strong> 。</p>
 ]]></content>
     <category term="知识星球"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">《Java 必读源码系列》</title>
     <id>https://javaguide.cn/learning/zhuanlan/source-code-reading.html</id>
     <link href="https://javaguide.cn/learning/zhuanlan/source-code-reading.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>介绍</h2>
 <p><strong>《Java 必读源码系列》</strong> 是我的<a href="/learning/about-the-author/zhishixingqiu-two-years.html" target="_blank">知识星球</a>的一个内部小册，目前已经整理了 Dubbo 2.6.x、Netty 4.x、SpringBoot 2.1 等框架/中间件的源码。后续还会整理更多值得阅读的优质源码，持续完善中。</p>
 <p>结构清晰，内容详细，非常适合想要深入学习框架/中间件源码的同学阅读。</p>
@@ -8056,13 +8056,13 @@ executor<span class="token punctuation">.</span><span class="token function">shu
 <figure><img src="https://mmbiz.qpic.cn/mmbiz_png/iaIdQfEric9TyC1icms4objsyiaJe2Iic7RZUq6nzsOOTX27x6Vfm5SibGic952kp3JM0RfRpLZXrneOCEOOogicj69yKw/640?wx_fmt=png&amp;wxfrom=5&amp;wx_lazy=1&amp;wx_co=1" alt="" tabindex="0"><figcaption></figcaption></figure>
 ]]></content>
     <category term="知识星球"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">MQTT</title>
     <id>https://javaguide.cn/learning/AloT/IoT/MQTT.html</id>
     <link href="https://javaguide.cn/learning/AloT/IoT/MQTT.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>介绍</h2>
 <p>MQTT is an <strong>OASIS</strong> standard messaging protocol for the Internet of Things (IoT).<br>
 It is designed as an extremely lightweight <strong>publish/subscribe</strong> messaging transport that is ideal for connecting<br>
@@ -8074,13 +8074,13 @@ remote devices with a small code footprint and minimal network bandwidth.</p>
 <h3>基本结构</h3>
 <figure><figcaption></figcaption></figure>
 ]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">十大经典排序算法总结</title>
     <id>https://javaguide.cn/learning/cs-basics/algorithms/10-classical-sorting-algorithms.html</id>
     <link href="https://javaguide.cn/learning/cs-basics/algorithms/10-classical-sorting-algorithms.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<blockquote>
 <p>本文转自：<a href="http://www.guoyaohua.com/sorting.html" target="_blank" rel="noopener noreferrer">http://www.guoyaohua.com/sorting.html</a>，JavaGuide 对其做了补充完善。</p>
 </blockquote>
@@ -8717,13 +8717,13 @@ remote devices with a small code footprint and minimal network bandwidth.</p>
 <figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="计算机基础"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">算法训练</title>
     <id>https://javaguide.cn/learning/cs-basics/algorithms/Practice.html</id>
     <link href="https://javaguide.cn/learning/cs-basics/algorithms/Practice.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>LeetCode</h2>
 <p><strong>以下是出自LeetCode题目，为作者个人练习记录使用，非商业目的</strong></p>
 <ol>
@@ -8916,13 +8916,13 @@ remote devices with a small code footprint and minimal network bandwidth.</p>
 </blockquote>
 ]]></content>
     <category term="计算机基础"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">经典算法思想总结（含LeetCode题目推荐）</title>
     <id>https://javaguide.cn/learning/cs-basics/algorithms/classical-algorithm-problems-recommendations.html</id>
     <link href="https://javaguide.cn/learning/cs-basics/algorithms/classical-algorithm-problems-recommendations.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>贪心算法</h2>
 <h3>算法思想</h3>
 <p>贪心的本质是选择每一阶段的局部最优，从而达到全局最优。</p>
@@ -9004,13 +9004,13 @@ remote devices with a small code footprint and minimal network bandwidth.</p>
 <p>23.合并 k 个升序链表：<a href="https://leetcode.cn/problems/merge-k-sorted-lists/" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/merge-k-sorted-lists/</a></p>
 ]]></content>
     <category term="计算机基础"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">常见数据结构经典LeetCode题目推荐</title>
     <id>https://javaguide.cn/learning/cs-basics/algorithms/common-data-structures-leetcode-recommendations.html</id>
     <link href="https://javaguide.cn/learning/cs-basics/algorithms/common-data-structures-leetcode-recommendations.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>数组</h2>
 <p>704.二分查找：<a href="https://leetcode.cn/problems/binary-search/" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/binary-search/</a></p>
 <p>80.删除有序数组中的重复项 II：<a href="https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/remove-duplicates-from-sorted-array-ii</a></p>]]></summary>
@@ -9045,13 +9045,13 @@ remote devices with a small code footprint and minimal network bandwidth.</p>
 <p>217.前 K 个高频元素：<a href="https://leetcode.cn/problems/top-k-frequent-elements/" target="_blank" rel="noopener noreferrer">https://leetcode.cn/problems/top-k-frequent-elements/</a></p>
 ]]></content>
     <category term="计算机基础"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">蓝桥杯题目学习</title>
     <id>https://javaguide.cn/learning/cs-basics/algorithms/lanqiao.html</id>
     <link href="https://javaguide.cn/learning/cs-basics/algorithms/lanqiao.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<ol>
 <li><a href="https://www.lanqiao.cn/problems/2211/learning/" target="_blank" rel="noopener noreferrer">六六大顺</a></li>
 </ol>
@@ -9074,13 +9074,13 @@ res<span class="token operator">=</span><span class="token number">0</span>
 <span class="token keyword">print</span><span class="token punctuation">(</span><span class="token builtin">int</span><span class="token punctuation">(</span><span class="token punctuation">(</span><span class="token punctuation">(</span>Decimal<span class="token punctuation">(</span><span class="token number">100</span><span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token punctuation">(</span>Decimal<span class="token punctuation">(</span><span class="token number">100</span><span class="token punctuation">)</span> <span class="token operator">**</span> n<span class="token punctuation">)</span> <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">)</span> <span class="token operator">/</span> Decimal<span class="token punctuation">(</span><span class="token number">99</span><span class="token punctuation">)</span> <span class="token operator">-</span> Decimal<span class="token punctuation">(</span><span class="token number">20</span><span class="token punctuation">)</span> <span class="token operator">*</span> <span class="token punctuation">(</span>Decimal<span class="token punctuation">(</span><span class="token number">10</span><span class="token punctuation">)</span> <span class="token operator">**</span> n <span class="token operator">-</span> <span class="token number">1</span><span class="token punctuation">)</span> <span class="token operator">/</span> Decimal<span class="token punctuation">(</span>
         <span class="token number">9</span><span class="token punctuation">)</span> <span class="token operator">+</span> n<span class="token punctuation">)</span> <span class="token operator">*</span> Decimal<span class="token punctuation">(</span><span class="token number">4</span><span class="token punctuation">)</span> <span class="token operator">/</span> Decimal<span class="token punctuation">(</span><span class="token number">9</span><span class="token punctuation">)</span><span class="token punctuation">)</span><span class="token punctuation">)</span>
 </code></pre></div>]]></content>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
   <entry>
     <title type="text">几道常见的链表算法题</title>
     <id>https://javaguide.cn/learning/cs-basics/algorithms/linkedlist-algorithm-problems.html</id>
     <link href="https://javaguide.cn/learning/cs-basics/algorithms/linkedlist-algorithm-problems.html"/>
-    <updated>2024-09-02T14:29:03.000Z</updated>
+    <updated>2024-09-02T15:48:11.000Z</updated>
     <summary type="html"><![CDATA[<h2>1. 两数相加</h2>
 <h3>题目描述</h3>
 <blockquote>
@@ -9404,6 +9404,6 @@ public class ListNode {
 </code></pre></div><figure><img src="https://oss.javaguide.cn/github/javaguide/gongzhonghaoxuanchuan.png" alt="JavaGuide 官方公众号" tabindex="0"><figcaption>JavaGuide 官方公众号</figcaption></figure>
 ]]></content>
     <category term="计算机基础"/>
-    <published>2024-09-02T14:29:03.000Z</published>
+    <published>2024-09-02T15:48:11.000Z</published>
   </entry>
 </feed>
