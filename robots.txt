@@ -2,4 +2,4 @@
 User-agent:*
 Disallow:
 
-Sitemap: https://javaguide.cn/learning/sitemap.xml
+Sitemap: https://tonygong000.github.io/learning/learning/sitemap.xml
